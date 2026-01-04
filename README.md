@@ -11,4 +11,4 @@ Technologies Used:
 - Visual Studio - code editor
 
 Instructions to run the game:
-- Clone or download the repository: https://github.com/kayqt/DC101_MemoryMatch_QuintoKaren.git
+https://kayqt.github.io/kayqt-DC101_MemoryMatch_QuintoKaren/
